@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Allison
 
 Welcome to my GitHub! I'm a Full-Stack Developer passionate about building web applications and learning new technologies.
 
