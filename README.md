@@ -6,8 +6,8 @@ Welcome to my GitHub! I'm an aspiring Full-Stack Developer passionate about buil
 
 - 💻 I'm currently learning **React.js** and expanding my skills in **Full-Stack Development**
 - 💬 Ask me about **JavaScript, Python, APIs, and Backend Development**
-- 📫 How to reach me: AllisonBoone1999@gmail.com(mailto:AllisonBoone1999@gmail.com)
-- 🌱 Fun fact: Your brain is constantly eating itself!
+- 📫 How to reach me: AllisonBoone1999@gmail.com
+- 🌱 Fun fact: Your brain is constantly eating itself! No I will not elaborate!
 
 ## 🛠️ Languages and Tools
 
